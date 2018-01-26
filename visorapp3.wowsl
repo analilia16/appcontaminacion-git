@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>15</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/aqua/</ImageTemplate>
+            <ImageTemplateName>Aqua</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/SEGUNDO PARCIAL/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/SEGUNDO PARCIAL/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#16b6ff</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>aqua</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Ana/Desktop/New folder/New folder/20160228_140732.jpg</url>
+                <title>Basura</title>
+                <filesize>2378349</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Ana/Desktop/New folder/New folder/20170219_131112.jpg</url>
+                <title>Peligro</title>
+                <filesize>2036367</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Ana/Desktop/New folder/New folder/20170331_185818.jpg</url>
+                <title>Desastre</title>
+                <filesize>2052009</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Ana/Desktop/New folder/New folder/20160228_140806.jpg</url>
+                <title>Basura</title>
+                <filesize>1765612</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Ana/Desktop/New folder/New folder/20170331_185748.jpg</url>
+                <title>Desastre</title>
+                <filesize>1921272</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
