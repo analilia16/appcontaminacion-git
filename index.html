@@ -3,7 +3,23 @@
 <head>
 <meta charset="utf-8">
 <title>CONTAMINACIÓN</title>
+<style>
+// JavaScript Document
 
+$(document).ready(function(e) {
+	document.addEventListener("deviceready",function() {
+	
+	$('#beep').tap(function() {
+	navigator.notification.beep(3);
+	});//tap beep
+	
+	$('#vibrar').tap(function() {
+	navigator.notification.vibrate(1000);
+	});//tap vibrar
+	
+	},false);//deviceready
+}); //ready
+</style>
 <!--grupo CSS-->
     <!-- Start WOWSlider.com HEAD section -->
 <link rel="stylesheet" type="text/css" href="engine1/style.css" />
@@ -15,7 +31,6 @@
     <!--grupo JavaScript-->
     <script src="js/jquery-1.11.2.min.js"></script>
     <script src="js/jquery.mobile-1.4.5.min.js"></script>
-    <script src="js/acciones.js"></script>
     <script src="phonegap.js"></script>
     
 </head>
